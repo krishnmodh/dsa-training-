@@ -1,11 +1,11 @@
 public class day_10 {
 
-    static int add(int two){
+    // static int add(int two){
         // System.out.println(two);
-        return two;
-    }
+        // return two;
+    // }
     public static void main(String[] args) {
-       add(2);
+    //    add(2);
        //print upper and down partt
         //  int s =5;
         // for(int i =0;i<s;i++){
@@ -105,14 +105,15 @@ public class day_10 {
         // reverse triangle
         // int n=5;
 
-        int n=5;
-          for(int i = n;i>0;i--){
-            for(int j=0;j<i;j++){
-                System.out.print((char)(65+j));
-            } 
-            System.out.println();
-        }
+        // int n=5;
+        //   for(int i = n;i>0;i--){
+        //     for(int j=0;j<i;j++){
+        //         System.out.print((char)(65+j));
+        //     } 
+        //     System.out.println();
+        // }
     
+        
         
     }
       }
