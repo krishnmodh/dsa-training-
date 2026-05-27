@@ -1,0 +1,20 @@
+1.what is function?
+2.why do we use function?
+3.components of function? accc modifier,
+4.sequential flow of function?
+5.context of the function? global scope ,lexical scope,
+6.stack memory and heap memory? lvt,how obj stored, stack frame,faster memory,persistance storage of memory,
+7.call bu value,call by reference
+8.types of function 1.parameter function 2. non parameter function 3. recursive function
+9.diff btw parameter and argument
+10.function overloading & function orveriding
+
+
+call stack and heap(persestance memory)
+function overloading (same name  but different parameter or different return type)
+function orveriding
+
+recursion fun( A function calling itself within its body is known as recursive function)
+
+
+inheritance
